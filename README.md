@@ -1,3 +1,7 @@
+# **PLEASE NOTE**
+
+This repository goes to https://github.com/techops-recsys-lateral-hiring/developer-joyofenergy-cpp now, update might not be pushed to here any further. You can check out our new repository or contribute to it, thanks.
+
 # Welcome to PowerDale
 
 PowerDale is a small town with around 100 residents. Most houses have a smart meter installed that can save and send
